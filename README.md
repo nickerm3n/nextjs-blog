@@ -1,1 +1,1 @@
-nextjs-blog-h1g99927c.vercel.app
+https://vercel.com/nickerm3n/nextjs-blog/k110ed2c9 live version this app
